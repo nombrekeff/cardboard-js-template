@@ -35,10 +35,13 @@ A minimal template project for [Cardboard.js](https://github.com/nombrekeff/card
 ```
 cardboard-js-template/
 ├── src/
+│   └── counter.ts    # A counter component example
 │   └── index.ts      # Your app entry point
 ├── public/
 │   └── index.html    # The HTML shell
 ├── package.json
+├── tsconfig.json     # Configuration for typescript
+├── tsup.config.ts    # Configuration for tsup
 └── README.md
 ```
 
@@ -46,7 +49,6 @@ cardboard-js-template/
 
 - [Cardboard.js Documentation](https://github.com/nombrekeff/cardboard-js/wiki)
 - [Cardboard.js Examples](https://github.com/nombrekeff/cardboard-js/tree/main/examples)
-
 ---
 
 > **Tip:** Use this template as a starting point for your own Cardboard.js projects.  
