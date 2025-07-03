@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "ES2015",
+        "outDir": "dist",
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "declaration": true,
+        "esModuleInterop": true,
+        "strictNullChecks": true,
+        "lib": [
+            "dom",
+            "ES2016"
+        ],
+        "types": []
+    },
+    "include": [
+        "./src/**/*.ts"
+    ],
+    "exclude": [
+        "./dist"
+    ]
+}

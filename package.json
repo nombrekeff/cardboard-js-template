@@ -1,0 +1,28 @@
+{
+  "name": "cardboard-js-template",
+  "version": "1.0.0",
+  "description": "A template project for Cardboard",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsup --watch & live-server dist",
+    "build": "tsup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nombrekeff/cardboard-js-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nombrekeff/cardboard-js-template/issues"
+  },
+  "homepage": "https://github.com/nombrekeff/cardboard-js-template#readme",
+  "dependencies": {
+    "@nkeff/cardboard-js": "0.1.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "tsup": "^8.5.0",
+    "typescript": "^5.8.3"
+  }
+}
