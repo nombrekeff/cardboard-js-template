@@ -1,0 +1,14 @@
+/node_modules/
+/_*
+_*/
+/examples/**/*.js
+/examples/**/*.js.map
+/coverage/
+/example/show-hide-performance-test/
+/index.html
+node_modules/
+TODO.md
+__*.cjs
+__*.js
+__*.ts
+docs/
