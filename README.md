@@ -1,6 +1,6 @@
 # cardboard-js-template
 
-A minimal template project for [Cardboard.js](https://github.com/nombrekeff/cardboard-js) — the lightweight, reactive UI library for building web apps without HTML, CSS, or JSX.
+A minimal template project for [Cardboard.js](https://github.com/nombrekeff/cardboard-js) — the LO-FI of reactive UI libraries - _build web apps without HTML or JSX_
 
 ## 🚀 Features
 
